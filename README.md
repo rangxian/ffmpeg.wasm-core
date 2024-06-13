@@ -90,6 +90,8 @@ $ npm test
 #### Others
 
 | Library/Tool Name | Version | Remark |
+
+test
 | ----------------- | ------- | ------ |
 | freetype2 | 2.10.4 | font file support |
 | fribidi | 1.0.10 | Arabic and Hebrew alphabets support |
